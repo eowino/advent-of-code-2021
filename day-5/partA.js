@@ -1,6 +1,6 @@
 // @ts-check
 
-// https://adventofcode.com/2021/day/3
+// https://adventofcode.com/2021/day/5
 
 const data = require('fs').readFileSync('./data.txt', 'utf8').split('\n');
 const state = {};
